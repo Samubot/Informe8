@@ -34,3 +34,5 @@ Reistor de 2.2 kΩ
 
 8.1 Implemente el circuito que se presenta en la figura 7.1
 
+<img src= img/lab8-1.jpg>
+
