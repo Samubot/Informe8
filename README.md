@@ -87,3 +87,18 @@ f: 0.16 (Hz) ω: 1.005 (rad/s)
 No coinciden, debido a que en el punto 8.5 tenemos la amplitud del voltaje de 6V o de la mitad de un tramo que seria 3 V, pero en el voltaje de salida de RL tenemos 0.175 V esto calculado con un multímetro.
 
 ¿Por qué? Esto se debe a que la onda sinosoidal nunca es perfecta, solo se pueden considerar fiables las medidas tomadas con multímetros True RMS cuando se trabaja en instalaciones de corriente alterna.
+
+5) VIDEO:
+
+6) CONCLUSIONES:
+
+• Se pudo observar la formas de onda y sus valores en puntos específicos, los cuales dependen del voltaje y la frecuencia. Se aprendió el uso correcto del osciloscopio y el generador de fuente de voltaje.
+
+• Existen varios valores los cuales se pueden ver con mayor facilidad usando el osciloscopio.
+
+• Una onda seno cambia de polaridad en su valor cero; esto es, alterna entre valores positivos y negativos. Cuando se aplica una fuente de voltaje sinusoidal (VS) a un circuito resistivo, como en la figura, se produce una corriente sinusoidal. Cuando el voltaje cambia de polaridad la corriente, en correspondencia, cambia de dirección como se indica.
+
+BIBLIOGRAFÍA
+• Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 406-420.
+
+• Alulema Darwin (2020). Capítulo 6. Forma de Onda sinusoidal. Pags 28-61.
