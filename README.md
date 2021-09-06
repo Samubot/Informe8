@@ -81,3 +81,9 @@ f: 0.16 (Hz) ω: 1.005 (rad/s)
 8.7 Con el multímetro digital mida el voltaje de salida en RL:
 
 <img src= img/lab8-5.jpg>
+
+8.8 Compare el voltaje medido en el punto 8.5. y el obtenido en el punto 8.7. ¿Coinciden?
+
+No coinciden, debido a que en el punto 8.5 tenemos la amplitud del voltaje de 6V o de la mitad de un tramo que seria 3 V, pero en el voltaje de salida de RL tenemos 0.175 V esto calculado con un multímetro.
+
+¿Por qué? Esto se debe a que la onda sinosoidal nunca es perfecta, solo se pueden considerar fiables las medidas tomadas con multímetros True RMS cuando se trabaja en instalaciones de corriente alterna.
