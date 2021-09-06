@@ -49,3 +49,29 @@ Circuito armado
 <img src= img/lab8-3.jpg>
 
 <img src= img/lab8-4.jpg>
+
+8.4 Responda las siguientes preguntas:
+
+¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+
+Tiene aproximadamente 2.3 divisiones por cuadro
+
+¿En qué valor está posicionada la perilla VOLTS/DIV?
+
+Está posicionada en el valor de 3
+
+¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+
+El ciclo completo abarca 4.6 cuadros aproximadamente
+
+¿En qué valor está posicionada la perilla TIME/DIV?
+
+Está posicionada en el valor de 0.1ms
+
+8.5 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+
+La amplitud de voltaje es: 6.83 V
+
+El periodo tiene un valor de 0.0004 (s)
+
+8.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
