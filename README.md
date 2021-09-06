@@ -45,3 +45,7 @@ Circuito armado
 8.2 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una Frecuencia de 2.5 Khz
 
 8.3 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
+
+<img src= img/lab8-3.jpg>
+
+<img src= img/lab8-4.jpg>
