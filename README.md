@@ -79,3 +79,5 @@ El periodo tiene un valor de 0.0004 (s)
 f: 0.16 (Hz) ω: 1.005 (rad/s)
 
 8.7 Con el multímetro digital mida el voltaje de salida en RL:
+
+<img src= img/lab8-5.jpg>
