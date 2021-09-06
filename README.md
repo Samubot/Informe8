@@ -1,4 +1,6 @@
 <img src= img/LOGO.png>
+
+
 # Informe8
 1) OBJETIVOS
 
