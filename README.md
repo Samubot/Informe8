@@ -75,3 +75,7 @@ La amplitud de voltaje es: 6.83 V
 El periodo tiene un valor de 0.0004 (s)
 
 8.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.
+
+f: 0.16 (Hz) ω: 1.005 (rad/s)
+
+8.7 Con el multímetro digital mida el voltaje de salida en RL:
