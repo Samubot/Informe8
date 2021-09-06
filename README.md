@@ -38,3 +38,6 @@ Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnit
 
 <img src= img/lab8-1.jpg>
 
+Circuito armado 
+
+<img src= img/lab8-2.jpg>
