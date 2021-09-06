@@ -18,21 +18,21 @@ Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnit
 
 3) MATERIAL Y EQUIPO REQUERIDO
 
-Generador de Funciones
+| Material o Equipo | 
+| --------- | 
+| Generador de funciones|
+| Osciloscopio. |
+| Protoboard |
+| Multímetro Digital |
+| Cables conductores |
+| Resistor de 1 kΩ |
+| Reistor de 2.2 kΩ |
 
-Osciloscopio.
 
-Protoboard
 
-Multímetro Digital
 
-Reistor de 1 kΩ
-
-Reistor de 2.2 kΩ
 
 4) PROCEDIMIENTO
 
 8.1 Implemente el circuito que se presenta en la figura 7.1
-
-<img src= img/lab8-1.jpg>
 
