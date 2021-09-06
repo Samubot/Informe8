@@ -41,3 +41,7 @@ Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnit
 Circuito armado 
 
 <img src= img/lab8-2.jpg>
+
+8.2 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una Frecuencia de 2.5 Khz
+
+8.3 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
