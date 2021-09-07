@@ -16,7 +16,8 @@
 
 Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnitud y irección varían periódicamente. La forma de onda de la corriente alterna más omúnmente tilizada s la de una onda senoidal, puesto que se consigue una transmisión ás eficiente de la energía. eneralmente, la corriente alterna se refiere a la forma en la cual la electricidad lega a los hogares y a las empresas. Sin embargo, las señales de audio y de radio ransmitidas por los cables eléctricos, son también ejemplos de corriente alterna.
 
-![Mentefacto ondas](https://user-images.githubusercontent.com/84453557/132286914-960f2626-3cdd-4816-bc9c-d3b6c8c52fb4.png)
+![MENTEFACTOONDAS](https://user-images.githubusercontent.com/84453557/132287016-c707a915-5b29-4aba-8186-dcd74c225cf8.png)
+
 
 
 3) MATERIAL Y EQUIPO REQUERIDO
