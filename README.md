@@ -12,15 +12,16 @@
 
 • Conocer el manejo del generador de funciones.
 
-2) INFORMACION GENERAL
-
-Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnitud y irección varían periódicamente. La forma de onda de la corriente alterna más omúnmente tilizada s la de una onda senoidal, puesto que se consigue una transmisión ás eficiente de la energía. eneralmente, la corriente alterna se refiere a la forma en la cual la electricidad lega a los hogares y a las empresas. Sin embargo, las señales de audio y de radio ransmitidas por los cables eléctricos, son también ejemplos de corriente alterna.
+2) MARCO TEÓRICO
 
 ![MENTEFACTOONDAS](https://user-images.githubusercontent.com/84453557/132287016-c707a915-5b29-4aba-8186-dcd74c225cf8.png)
 
+3) INFORMACION GENERAL
+
+Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnitud y irección varían periódicamente. La forma de onda de la corriente alterna más omúnmente tilizada s la de una onda senoidal, puesto que se consigue una transmisión ás eficiente de la energía. eneralmente, la corriente alterna se refiere a la forma en la cual la electricidad lega a los hogares y a las empresas. Sin embargo, las señales de audio y de radio ransmitidas por los cables eléctricos, son también ejemplos de corriente alterna.
 
 
-3) MATERIAL Y EQUIPO REQUERIDO
+4) MATERIAL Y EQUIPO REQUERIDO
 
 | Material o Equipo | 
 | --------- | 
@@ -36,7 +37,7 @@ Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnit
 
 
 
-4) PROCEDIMIENTO
+5) PROCEDIMIENTO
 
 8.1 Implemente el circuito que se presenta en la figura 7.1
 
@@ -92,9 +93,9 @@ No coinciden, debido a que en el punto 8.5 tenemos la amplitud del voltaje de 6V
 
 ¿Por qué? Esto se debe a que la onda sinosoidal nunca es perfecta, solo se pueden considerar fiables las medidas tomadas con multímetros True RMS cuando se trabaja en instalaciones de corriente alterna.
 
-5) VIDEO:
+6) VIDEO:
 
-6) CONCLUSIONES:
+7) CONCLUSIONES:
 
 • Se pudo observar la formas de onda y sus valores en puntos específicos, los cuales dependen del voltaje y la frecuencia. Se aprendió el uso correcto del osciloscopio y el generador de fuente de voltaje.
 
